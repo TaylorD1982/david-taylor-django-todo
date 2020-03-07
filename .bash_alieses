@@ -1,0 +1,1 @@
+alias run="python3 ~/environment/django_todo/manage.py runserver $IP:$C9_PORT"
